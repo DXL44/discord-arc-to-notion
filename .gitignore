@@ -1,5 +1,7 @@
 # Token
 .env
+# Messages file
+messages.json
 
 # Logs
 logs
