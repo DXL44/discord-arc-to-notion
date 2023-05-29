@@ -39,7 +39,7 @@ var pageContent = [
 }
 ]
 //so here's the part where we convert each message into a block
-for (i=0; i< messagesInput.messages.length && i < 50; i++){
+for (i=0; i< messagesInput.messages.length && i < 95; i++){
   console.log("Adding message " + i);
   messageSelected = messagesInput.messages[i]
   messageContent = {
