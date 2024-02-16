@@ -11,6 +11,7 @@
   "keywords": [],
   "dependencies": {
     "@notionhq/client": "^2.2.5",
+    "@tryfabric/martian": "^1.2.4",
     "axios": "^1.4.0",
     "dotenv": "^16.0.3"
   }

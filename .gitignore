@@ -2,7 +2,8 @@
 .env
 # Messages file
 messages.json
-
+# Colors config file
+users.json
 # Logs
 logs
 *.log
